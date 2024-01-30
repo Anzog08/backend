@@ -1,1 +1,6 @@
-{"users":[{"username":"Shine Username","email":"Dorj"},{"username":"asdfgds","email":"sdfgfdsf"}]}
+{
+  "users": [
+    { "username": "Shine Username", "email": "Dorj" },
+    { "username": "asdfgds", "email": "sdfgfdsf" }
+  ]
+}
